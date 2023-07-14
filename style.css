@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: 'Courier';
+  color: #FFF;
+  font-size: 12pt;
+  line-height: 10pt;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+canvas {
+  display: block;
+}
